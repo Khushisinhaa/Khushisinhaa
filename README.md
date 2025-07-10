@@ -118,7 +118,7 @@ Real-time sentiment analysis app for classifying movie reviews.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushi%20Sinha-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/khushi-sinha)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushi%20Sinha-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/khushi-sinha-473706255/)  
 ✉️ sinhakhushi555@gmail.com
 
 ---
